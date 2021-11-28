@@ -39,5 +39,5 @@
 
 \* information taken from : https://www.euro-jackpot.net/en/rules
 
-\** 50 mln. tickets simulated 
+\** 500 mln. tickets simulated 
 
