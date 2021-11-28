@@ -23,7 +23,7 @@ M⊂[1,15]; J⊂[16,30]; R⊂[31,45]; G⊂[46,60]; Ž⊂[61,75]
     * Full table - during third stage. "Big" prize
 
 <p align="center">
-<img src="./../teleloto/img/patterns.png" alt="ticket" title="lottery ticket" width="450" />
+<img src="./../teleloto/img/patterns.PNG" alt="ticket" title="lottery ticket" width="450" />
 </p>
 
 
